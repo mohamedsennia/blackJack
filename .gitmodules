@@ -1,0 +1,6 @@
+[submodule "blackJack"]
+	path = blackJack
+	url = https://github.com/mohamedsennia/blackJackBack
+[submodule "blackJackFront"]
+	path = blackJackFront
+	url = https://github.com/mohamedsennia/blackJackFront
